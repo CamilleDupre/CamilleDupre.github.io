@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>CDupre</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="navbar-left">
+          <h3>Camile Dupré</h3>
+        </div>
+         <!--
+        <div class="navbar-right">
+          <button href="#topic">Topic</button>
+          <button href="#education">Education</button>
+          <button href="#publication">Publication</button>
+          <button href="#teaching">Teaching</button>
+        </div>
+           -->
+      </nav>
+    </header>
+
+    <div class="container">
+      <img src="img/DUPRE_Camille.jpg" alt="Photo de profil">
+      <div class="textBio">
+        <h2>Camille Dupré</h2>
+        <h3> Hello ! </h3>
+      <p> I am a 1st year CIFRE PhD student in the ILDA research team and Berger-Levrault company</p>
+      <p> I am working on Human Computer interaction. </p>
+      <p> My thesis supervisors are 
+        <a href="https://pages.saclay.inria.fr/emmanuel.pietriga/">Emmanuel Pietriga</a>
+        and
+        <a href="https://www.lri.fr/~appert/website/index.html">Caroline Appert</a>
+         </p>
+      </div>
+    </div>
+    <div id= "topic" class="dark-gray">
+      <h3>Area of research</h3>
+        <p> In my thesis, I am exploring the potential offered by mixed reality to display and interact with virtual content. </p>
+        <p> I am working with a desktop and an augmented reality headset, the Hololens 2.</p>
+    </div>
+    <div class="light-gray" id = "Education">
+      <h3>Education</h3>
+        <li>
+          <p>Since November 2022 PHD in Human Computer interaction </p>  
+          <p>University Paris-Saclay</p>
+        </li>
+        
+        <li>
+          <p>2020 - 2022 Master degree in Human Computer Interaction</p>
+          <p>University Paris-Saclay</p>
+        </li>
+
+        <li>
+          <p>2019 - 2022 Magistère in computer science</p>
+          <p>University Paris-Saclay</p>
+        </li>
+        
+        <li>
+          <p>2017 - 2020 Bachelor degree in computer science</p>
+          <p>University Paris-Saclay</p>
+        </li>
+   <!--
+      </div>
+    <div id= "publication" class="dark-gray">
+      <h3>Publication </h3>
+        <p> In comming hopfully</p>
+    </div>
+ 
+    <div id= "teaching" class="light-gray">
+      <h3>Teaching </h3>
+        <p>starting next year</p>
+    </div>
+  -->
+  </body>
+
+  
+</html>
